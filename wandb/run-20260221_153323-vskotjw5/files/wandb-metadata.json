@@ -1,0 +1,36 @@
+{
+  "os": "macOS-26.1-arm64-arm-64bit-Mach-O",
+  "python": "CPython 3.13.11",
+  "startedAt": "2026-02-21T08:33:23.281075Z",
+  "program": "/Users/hazelhandrata/Developer/monkeylimitsML/category_model_tf_idf.ipynb",
+  "codePath": "/Users/hazelhandrata/Developer/monkeylimitsML/category_model_tf_idf.ipynb",
+  "codePathLocal": "category_model_tf_idf.ipynb",
+  "git": {
+    "commit": "1d891ad9796c01fc92dd7e47204a6441f3672134"
+  },
+  "email": "hazelhandrata@gmail.com",
+  "root": "/Users/hazelhandrata/Developer/monkeylimitsML",
+  "host": "customer.krypt.com",
+  "executable": "/opt/anaconda3/envs/machinelearning/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "194015178752"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "apple": {
+    "name": "Apple M2",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 8,
+    "swapTotalBytes": "8589934592",
+    "ramTotalBytes": "8589934592"
+  },
+  "writerId": "w8uvyt1tuz9701xl2m6ulw8rnp7ihx80"
+}

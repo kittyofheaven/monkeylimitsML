@@ -1,0 +1,41 @@
+2026-02-21 15:38:53,420 INFO    MainThread:96209 [wandb_init.py:setup_run_log_directory():717] Logging user logs to /Users/hazelhandrata/Developer/monkeylimitsML/wandb/run-20260221_153853-dr5e7d2n/logs/debug.log
+2026-02-21 15:38:53,420 INFO    MainThread:96209 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to /Users/hazelhandrata/Developer/monkeylimitsML/wandb/run-20260221_153853-dr5e7d2n/logs/debug-internal.log
+2026-02-21 15:38:53,420 INFO    MainThread:96209 [wandb_init.py:monkeypatch_ipython():636] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x129b4a210>
+2026-02-21 15:38:53,421 INFO    MainThread:96209 [wandb_init.py:init():844] calling init triggers
+2026-02-21 15:38:53,421 INFO    MainThread:96209 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'dataset_total_rows': 1268, 'n_classes': 10, 'train_size': 887, 'test_size': 381, 'test_ratio': 0.3, 'random_state': 42, 'word_ngram_range': '(1, 2)', 'word_max_features': 10000, 'word_min_df': 2, 'word_sublinear_tf': True, 'char_ngram_range': '(3, 5)', 'char_min_df': 2, 'char_sublinear_tf': True, 'char_analyzer': 'char_wb', 'clf_solver': 'lbfgs', 'clf_max_iter': 2000, 'clf_class_weight': 'balanced', 'clf_C': 1.0, '_wandb': {}}
+2026-02-21 15:38:53,421 INFO    MainThread:96209 [wandb_init.py:init():892] starting backend
+2026-02-21 15:38:53,421 INFO    MainThread:96209 [wandb_init.py:init():895] sending inform_init request
+2026-02-21 15:38:53,431 INFO    MainThread:96209 [wandb_init.py:init():903] backend started and connected
+2026-02-21 15:38:53,436 INFO    MainThread:96209 [wandb_run.py:_label_probe_notebook():1333] probe notebook
+2026-02-21 15:38:53,438 INFO    MainThread:96209 [wandb_init.py:init():973] updated telemetry
+2026-02-21 15:38:53,465 INFO    MainThread:96209 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
+2026-02-21 15:38:54,425 INFO    MainThread:96209 [wandb_init.py:init():1042] starting run threads in backend
+2026-02-21 15:38:54,517 INFO    MainThread:96209 [wandb_run.py:_console_start():2524] atexit reg
+2026-02-21 15:38:54,517 INFO    MainThread:96209 [wandb_run.py:_redirect():2373] redirect: wrap_raw
+2026-02-21 15:38:54,517 INFO    MainThread:96209 [wandb_run.py:_redirect():2442] Wrapping output streams.
+2026-02-21 15:38:54,517 INFO    MainThread:96209 [wandb_run.py:_redirect():2465] Redirects installed.
+2026-02-21 15:38:54,518 INFO    MainThread:96209 [wandb_init.py:init():1082] run started, returning control to user process
+2026-02-21 15:38:54,518 INFO    MainThread:96209 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
+2026-02-21 15:38:54,523 INFO    MainThread:96209 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-02-21 15:38:54,523 INFO    MainThread:96209 [wandb_init.py:_pre_run_cell_hook():595] [no run ID] pausing backend
+2026-02-21 15:38:55,481 INFO    MainThread:96209 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
+2026-02-21 15:38:55,491 INFO    MainThread:96209 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-02-21 15:38:55,491 INFO    MainThread:96209 [wandb_init.py:_pre_run_cell_hook():595] [no run ID] pausing backend
+2026-02-21 15:38:56,216 INFO    MainThread:96209 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
+2026-02-21 15:38:56,225 INFO    MainThread:96209 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-02-21 15:38:56,225 INFO    MainThread:96209 [wandb_init.py:_pre_run_cell_hook():595] [no run ID] pausing backend
+2026-02-21 15:38:57,140 INFO    MainThread:96209 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
+2026-02-21 15:38:57,156 INFO    MainThread:96209 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-02-21 15:38:57,157 INFO    MainThread:96209 [wandb_init.py:_pre_run_cell_hook():595] [no run ID] pausing backend
+2026-02-21 15:38:57,566 INFO    MainThread:96209 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
+2026-02-21 15:38:57,574 INFO    MainThread:96209 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-02-21 15:38:57,574 INFO    MainThread:96209 [wandb_init.py:_pre_run_cell_hook():595] [no run ID] pausing backend
+2026-02-21 15:38:57,576 INFO    MainThread:96209 [wandb_run.py:_finish():2291] finishing run kittyofheaven/monkeylimits-category-classifier/dr5e7d2n
+2026-02-21 15:38:57,577 INFO    MainThread:96209 [jupyter.py:save_history():435] not saving jupyter history
+2026-02-21 15:38:57,577 INFO    MainThread:96209 [jupyter.py:save_ipynb():362] not saving jupyter notebook
+2026-02-21 15:38:57,577 INFO    MainThread:96209 [wandb_init.py:_jupyter_teardown():621] cleaning up jupyter logic
+2026-02-21 15:38:57,577 INFO    MainThread:96209 [wandb_run.py:_atexit_cleanup():2490] got exitcode: 0
+2026-02-21 15:38:57,577 INFO    MainThread:96209 [wandb_run.py:_restore():2472] restore
+2026-02-21 15:38:57,577 INFO    MainThread:96209 [wandb_run.py:_restore():2478] restore done
+2026-02-21 15:39:00,472 INFO    MainThread:96209 [wandb_run.py:_footer_sync_info():3868] logging synced files

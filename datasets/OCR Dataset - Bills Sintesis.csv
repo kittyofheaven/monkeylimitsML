@@ -1,0 +1,1039 @@
+Nama File,Hasil OCR,Kategori,Method
+shopee_300,"ShopeePay
+ 12.00
+ Bayar Ke
+ by. by.U
+ Rincian Pembayaran
+ Order SN ATK3ENfch3zdL
+ Waktu Selesai 04-01-2024 12:00
+ Metode Pembayaran
+ ShopeePay
+ Merchant Ref ID
+ SP24010403703701000O0
+ Berhasil
+ Total
+ -Rp 15.000",Bills,E-Wallet
+shopee_301,"ShopeePay
+ 15.07
+ Bayar Ke
+ by. MyTelkomsel
+ Rincian Pembayaran
+ 761-5**-**83
+ Waktu Selesai 05-02-2025 15:07
+ Metode Pembayaran
+ ShopeePay
+ Merchant Ref ID
+ SP25020503716046677O9
+ Berhasil
+ Total
+ -Rp 111.000",Bills,E-Wallet
+shopee_302,"ShopeePay
+ 18.14
+ Bayar Ke
+ by. PLN Pascabayar
+ Rincian Pembayaran
+ IDPEL 541234567890
+ Waktu Selesai 06-03-2024 18:14
+ Metode Pembayaran
+ ShopeePay
+ Merchant Ref ID
+ SP24030603728392344O8
+ Berhasil
+ Total
+ -Rp 425.000",Bills,E-Wallet
+shopee_303,"ShopeePay
+ 21.21
+ Bayar dengan QRIS
+ Rincian Pembayaran
+ PDAM
+ No. Pelanggan 0900123456
+ Waktu Selesai 07-04-2025 21:21
+ Metode Pembayaran
+ QRIS
+ Merchant Ref ID
+ SP25040703740738011O7
+ Berhasil
+ Total
+ Rp 185.000",Bills,Qris
+shopee_304,"ShopeePay
+ 00.28
+ Bayar Ke
+ by. PGN Gas
+ Rincian Pembayaran
+ ID Pelanggan 7001234567
+ Waktu Selesai 08-05-2024 00:28
+ Metode Pembayaran
+ ShopeePay
+ Merchant Ref ID
+ SP24050803753083688O6
+ Berhasil
+ Total
+ -Rp 98.000",Bills,E-Wallet
+shopee_305,"ShopeePay
+ 03.35
+ Bayar Ke
+ by. Shopee Listrik
+ Rincian Pembayaran
+ IDPEL 193152DENI
+ Waktu Selesai 09-06-2025 03:35
+ Metode Pembayaran
+ ShopeePay
+ Merchant Ref ID
+ SP25060903765429355O5
+ Berhasil
+ Total
+ -Rp 350.000",Bills,E-Wallet
+shopee_306,"ShopeePay
+ Bukti Pembayaran
+ 10 Jul 2024 · 06:42:06 WIB
+ Virtual Account
+ Produk: by.U
+ VA: 0000000002795922
+ Rincian
+ Bayar paket data
+ Total
+ Rp 15.000
+ ID: SP24071003777775022O4
+ Berhasil",Bills,Virtual Account
+shopee_307,"ShopeePay
+ 09.49
+ Bayar Ke
+ by. MyTelkomsel
+ Rincian Pembayaran
+ 761-5**-**83
+ Waktu Selesai 11-08-2025 09:49
+ Metode Pembayaran
+ ShopeePay
+ Merchant Ref ID
+ SP25081103790120699O3
+ Berhasil
+ Total
+ -Rp 111.000",Bills,E-Wallet
+shopee_308,"ShopeePay
+ 12.56
+ Bayar dengan QRIS
+ Rincian Pembayaran
+ PLN Pascabayar
+ IDPEL 541234567890
+ Waktu Selesai 12-09-2024 12:56
+ Metode Pembayaran
+ QRIS
+ Merchant Ref ID
+ SP24091203802466366O2
+ Berhasil
+ Total
+ Rp 425.000",Bills,Qris
+shopee_309,"ShopeePay
+ 15.03
+ Bayar Ke
+ by. PDAM
+ Rincian Pembayaran
+ No. Pelanggan 0900123456
+ Waktu Selesai 13-10-2025 15:03
+ Metode Pembayaran
+ ShopeePay
+ Merchant Ref ID
+ SP25101303814812033O1
+ Berhasil
+ Total
+ -Rp 185.000",Bills,E-Wallet
+gopay_310,"GoPay
+ Rincian Transaksi
+ Status
+ Selesai
+ Metode pembayaran
+ GoPay Saldo
+ Waktu
+ 18:10
+ Tanggal
+ 14 Nov 2024
+ ID transaksi
+ GP24111403827157700O0
+ Rincian
+ Shopee Listrik
+ IDPEL 193152DENI
+ Jumlah
+ Rp 350.000
+ Total
+ Rp 350.000
+ Bagiin bukti bayar",Bills,E-Wallet
+gopay_311,"GoPay
+ Rincian Transaksi
+ Status
+ Selesai
+ Metode pembayaran
+ GoPay Saldo
+ Waktu
+ 21:17
+ Tanggal
+ 15 Des 2025
+ ID transaksi
+ GP25121503839503377O9
+ Rincian
+ by.U
+ Order SN ATK3ENfch3zdL
+ Jumlah
+ Rp 15.000
+ Total
+ Rp 15.000
+ Bagiin bukti bayar",Bills,E-Wallet
+gopay_312,"GoPay
+ Rincian Transaksi
+ Status
+ Selesai
+ Metode pembayaran
+ GoPay Saldo
+ Waktu
+ 00:24
+ Tanggal
+ 16 Jan 2024
+ ID transaksi
+ GP24011603851849044O8
+ Rincian
+ MyTelkomsel
+ 761-5**-**83
+ Jumlah
+ Rp 111.000
+ Total
+ Rp 111.000
+ Bagiin bukti bayar",Bills,E-Wallet
+gopay_313,"GoPay
+ Rincian Transaksi
+ Status
+ Selesai
+ Metode pembayaran
+ QRIS
+ Waktu
+ 03:31
+ Tanggal
+ 17 Feb 2025
+ ID transaksi
+ GP25021703864194711O7
+ Rincian
+ PLN Pascabayar
+ IDPEL 541234567890
+ Jumlah
+ Rp 425.000
+ Total
+ Rp 425.000
+ Bagiin bukti bayar",Bills,Qris
+gopay_314,"GoPay
+ Rincian Transaksi
+ Status
+ Selesai
+ Metode pembayaran
+ GoPay Saldo
+ Waktu
+ 06:38
+ Tanggal
+ 18 Mar 2024
+ ID transaksi
+ GP24031803876540388O6
+ Rincian
+ PDAM
+ No. Pelanggan 0900123456
+ Jumlah
+ Rp 185.000
+ Total
+ Rp 185.000
+ Bagiin bukti bayar",Bills,E-Wallet
+gopay_315,"GoPay
+ Rincian Transaksi
+ Status
+ Selesai
+ Metode pembayaran
+ GoPay Saldo
+ Waktu
+ 09:45
+ Tanggal
+ 19 Apr 2025
+ ID transaksi
+ GP25041903888886055O5
+ Rincian
+ PGN Gas
+ ID Pelanggan 7001234567
+ Jumlah
+ Rp 98.000
+ Total
+ Rp 98.000
+ Bagiin bukti bayar",Bills,E-Wallet
+gopay_316,"GoPay
+ Bukti Transaksi
+ 20 Mei 2024 · 12:52:56 WIB
+ Virtual Account
+ Biller
+ Shopee Listrik
+ VA
+ 0000000002887292
+ Deskripsi
+ Bayar listrik
+ Total
+ Rp 350.000
+ ID Transaksi GP24052003901231722O4
+ Berhasil",Bills,Virtual Account
+gopay_317,"GoPay
+ Rincian Transaksi
+ Status
+ Selesai
+ Metode pembayaran
+ GoPay Saldo
+ Waktu
+ 15:59
+ Tanggal
+ 21 Jun 2025
+ ID transaksi
+ GP25062103913577399O3
+ Rincian
+ by.U
+ Order SN ATK3ENfch3zdL
+ Jumlah
+ Rp 15.000
+ Total
+ Rp 15.000
+ Bagiin bukti bayar",Bills,E-Wallet
+gopay_318,"GoPay
+ Rincian Transaksi
+ Status
+ Selesai
+ Metode pembayaran
+ QRIS
+ Waktu
+ 18:06
+ Tanggal
+ 22 Jul 2024
+ ID transaksi
+ GP24072203925923066O2
+ Rincian
+ MyTelkomsel
+ 761-5**-**83
+ Jumlah
+ Rp 111.000
+ Total
+ Rp 111.000
+ Bagiin bukti bayar",Bills,Qris
+gopay_319,"GoPay
+ Rincian Transaksi
+ Status
+ Selesai
+ Metode pembayaran
+ GoPay Saldo
+ Waktu
+ 21:13
+ Tanggal
+ 23 Agu 2025
+ ID transaksi
+ GP25082303938268733O1
+ Rincian
+ PLN Pascabayar
+ IDPEL 541234567890
+ Jumlah
+ Rp 425.000
+ Total
+ Rp 425.000
+ Bagiin bukti bayar",Bills,E-Wallet
+livin_320,"livin
+ Transfer Rupiah
+ Transfer Berhasil!
+ 24 Sep 2024- 00:20:40 WIB No. Ref.
+ 24092403950614400O0
+ Penerima
+ PGN Gas
+ Bank Mandiri -ID Pelanggan 7001234567
+ Detail Transaksi
+ Metode Transfer
+ Lainnya
+ Biaya Transaksi
+ Rp 0
+ Total Transaksi
+ Rp 98.000
+ Rekening Sumber
+ NOER ICHWANI
+ Bank Mandiri
+ Keterangan Transaksi
+ Tagihan gas
+ Rp 98.000",Bills,Transfer
+livin_321,"liyin
+ Transfer Rupiah
+ Transfer Berhasil!
+ 25 Okt 2025- 03:27:51 WIB No. Ref.
+ 25102503962960077O9
+ Penerima
+ Shopee Listrik
+ Bank Mandiri -IDPEL 193152DENI
+ Detail Transaksi
+ Metode Transfer
+ BI Fast
+ Biaya Transaksi
+ Rp 2.500
+ Total Transaksi
+ Rp 352.500
+ Rekening Sumber
+ NOER ICHWANI
+ Bank Mandiri
+ Keterangan Transaksi
+ Bayar listrik
+ Rp 350.000",Bills,Transfer
+livin_322,"ligin
+ Transfer Rupiah
+ Transfer Berhasil!
+ 26 Nov 2024- 06:34:02 WIB No. Ref.
+ 24112603975305744O8
+ Penerima
+ by.U
+ Bank Mandiri -Order SN ATK3ENfch3zdL
+ Detail Transaksi
+ Metode Transfer
+ Sesama Bank Mandiri
+ Biaya Transaksi
+ Rp 0
+ Total Transaksi
+ Rp 15.000
+ Rekening Sumber
+ NOER ICHWANI
+ Bank Mandiri
+ Keterangan Transaksi
+ Bayar paket data
+ Rp 15.000",Bills,Transfer
+livin_323,"lyin
+ Transfer Rupiah
+ Transfer Berhasil!
+ 27 Des 2025- 09:41:13 WIB No. Ref.
+ 25122703987651411O7
+ Penerima
+ MyTelkomsel
+ Bank Mandiri -761-5**-**83
+ Detail Transaksi
+ Metode Transfer
+ Lainnya
+ Biaya Transaksi
+ Rp 0
+ Total Transaksi
+ Rp 111.000
+ Rekening Sumber
+ NOER ICHWANI
+ Bank Mandiri
+ Keterangan Transaksi
+ Tagihan Telkomsel
+ Rp 111.000",Bills,Transfer
+livin_324,"livin
+ by mandiri
+ QRIS
+ Pembayaran Berhasil!
+ 01 Jan 2024 · 12:48:24 WIB No. Ref.
+ 24010103999997088O6
+ Merchant
+ PLN Pascabayar
+ IDPEL 541234567890
+ Nominal
+ Rp 425.000
+ Keterangan
+ Tagihan listrik bulan ini",Bills,Qris
+livin_325,"liyin
+ Transfer Rupiah
+ Transfer Berhasil!
+ 02 Feb 2025- 15:55:35 WIB No. Ref.
+ 25020204012342755O5
+ Penerima
+ PDAM
+ Bank Mandiri -No. Pelanggan 0900123456
+ Detail Transaksi
+ Metode Transfer
+ Sesama Bank Mandiri
+ Biaya Transaksi
+ Rp 0
+ Total Transaksi
+ Rp 185.000
+ Rekening Sumber
+ NOER ICHWANI
+ Bank Mandiri
+ Keterangan Transaksi
+ Tagihan air bulan ini
+ Rp 185.000",Bills,Transfer
+livin_326,"ligin
+ by mandiri
+ Virtual Account
+ Pembayaran Berhasil!
+ 03 Mar 2024 · 18:02:46 WIB No. Ref.
+ 24030304024688422O4
+ Penerima
+ PGN Gas
+ ID Pelanggan 7001234567
+ No. VA
+ 0000000002978662
+ Total
+ Rp 98.000
+ Keterangan
+ Tagihan gas",Bills,Virtual Account
+livin_327,"lyin
+ Transfer Rupiah
+ Transfer Berhasil!
+ 04 Apr 2025- 21:09:57 WIB No. Ref.
+ 25040404037034099O3
+ Penerima
+ Shopee Listrik
+ Bank Mandiri -IDPEL 193152DENI
+ Detail Transaksi
+ Metode Transfer
+ BI Fast
+ Biaya Transaksi
+ Rp 2.500
+ Total Transaksi
+ Rp 352.500
+ Rekening Sumber
+ NOER ICHWANI
+ Bank Mandiri
+ Keterangan Transaksi
+ Bayar listrik
+ Rp 350.000",Bills,Transfer
+livin_328,"livin
+ by mandiri
+ QRIS
+ Pembayaran Berhasil!
+ 05 Mei 2024 · 00:16:08 WIB No. Ref.
+ 24050504049379766O2
+ Merchant
+ by.U
+ Order SN ATK3ENfch3zdL
+ Nominal
+ Rp 15.000
+ Keterangan
+ Bayar paket data",Bills,Qris
+livin_329,"liyin
+ by mandiri
+ Virtual Account
+ Pembayaran Berhasil!
+ 06 Jun 2025 · 03:23:19 WIB No. Ref.
+ 25060604061725433O1
+ Penerima
+ MyTelkomsel
+ 761-5**-**83
+ No. VA
+ 0000000003006073
+ Total
+ Rp 111.000
+ Keterangan
+ Tagihan Telkomsel",Bills,Virtual Account
+bca_330,"BCA mobile
+ Bukti Transaksi
+ 07 Jul 2024 06:30:30
+ Transfer Successful
+ Penerima
+ PDAM
+ No. Pelanggan 0900123456
+ Deskripsi
+ Tagihan air bulan ini
+ Total
+ Rp 185.000
+ Reference No.
+ BCA24070704074071100O0",Bills,Transfer
+bca_331,"BCA mobile
+ Bukti Transaksi
+ 08 Agu 2025 09:37:41
+ Transfer Successful
+ Penerima
+ PGN Gas
+ ID Pelanggan 7001234567
+ Deskripsi
+ Tagihan gas
+ Total
+ Rp 98.000
+ Reference No.
+ BCA25080804086416777O9",Bills,Transfer
+bca_332,"BCA mobile
+ Bukti Transaksi
+ 09 Sep 2024 12:44:52
+ Transfer Successful
+ Penerima
+ Shopee Listrik
+ IDPEL 193152DENI
+ Deskripsi
+ Bayar listrik
+ Total
+ Rp 350.000
+ Reference No.
+ BCA24090904098762444O8",Bills,Transfer
+bca_333,"BCA mobile
+ Bukti Transaksi
+ 10 Okt 2025 15:51:03
+ Transfer Successful
+ Penerima
+ by.U
+ Order SN ATK3ENfch3zdL
+ Deskripsi
+ Bayar paket data
+ Total
+ Rp 15.000
+ Reference No.
+ BCA25101004111108111O7",Bills,Transfer
+bca_334,"BCA mobile
+ Bukti Transaksi
+ 11 Nov 2024 18:58:14
+ QRIS Payment
+ Merchant
+ MyTelkomsel
+ 761-5**-**83
+ Bill Total
+ Rp 111.000
+ Reference No.
+ BCA24111104123453788O6
+ Status
+ BERHASIL",Bills,Qris
+bca_335,"BCA mobile
+ Bukti Transaksi
+ 12 Des 2025 21:05:25
+ Transfer Successful
+ Penerima
+ PLN Pascabayar
+ IDPEL 541234567890
+ Deskripsi
+ Tagihan listrik bulan ini
+ Total
+ Rp 425.000
+ Reference No.
+ BCA25121204135799455O5",Bills,Transfer
+bca_336,"BCA
+ Transfer Successful
+ BCA Virtual Account No.
+ 0000000003070032
+ Product Name
+ PDAM
+ PDAM
+ No. Pelanggan 0900123456
+ Bill Total
+ Rp 185.000
+ Total Payment
+ Rp 185.000
+ 13 Jan 2024 00:12:36
+ Transaction Type
+ Transfer to BCA
+ Virtual Account
+ Reference No.
+ BCA24011304148145122O4",Bills,Virtual Account
+bca_337,"BCA mobile
+ Bukti Transaksi
+ 14 Feb 2025 03:19:47
+ Transfer Successful
+ Penerima
+ PGN Gas
+ ID Pelanggan 7001234567
+ Deskripsi
+ Tagihan gas
+ Total
+ Rp 98.000
+ Reference No.
+ BCA25021404160490799O3",Bills,Transfer
+bca_338,"BCA mobile
+ Bukti Transaksi
+ 15 Mar 2024 06:26:58
+ QRIS Payment
+ Merchant
+ Shopee Listrik
+ IDPEL 193152DENI
+ Bill Total
+ Rp 350.000
+ Reference No.
+ BCA24031504172836466O2
+ Status
+ BERHASIL",Bills,Qris
+bca_339,"BCA
+ Transfer Successful
+ BCA Virtual Account No.
+ 0000000003097443
+ Product Name
+ by.U
+ by.U
+ Order SN ATK3ENfch3zdL
+ Bill Total
+ Rp 15.000
+ Total Payment
+ Rp 15.000
+ 16 Apr 2025 09:33:09
+ Transaction Type
+ Transfer to BCA
+ Virtual Account
+ Reference No.
+ BCA25041604185182133O1",Bills,Virtual Account
+ovo_340,"OVO
+ Bukti Pembayaran
+ 17 Mei 2024 · 12:40:20 WIB
+ Bills
+ PLN Pascabayar
+ IDPEL 541234567890
+ Detail
+ Tagihan listrik bulan ini
+ Total
+ Rp 425.000
+ OVO Cash
+ Trx ID: OVO24051704197527800O0
+ Berhasil",Bills,E-Wallet
+ovo_341,"OVO
+ Bukti Pembayaran
+ 18 Jun 2025 · 15:47:31 WIB
+ Bills
+ PDAM
+ No. Pelanggan 0900123456
+ Detail
+ Tagihan air bulan ini
+ Total
+ Rp 185.000
+ OVO Cash
+ Trx ID: OVO25061804209873477O9
+ Berhasil",Bills,E-Wallet
+ovo_342,"OVO
+ Bukti Pembayaran
+ 19 Jul 2024 · 18:54:42 WIB
+ Bills
+ PGN Gas
+ ID Pelanggan 7001234567
+ Detail
+ Tagihan gas
+ Total
+ Rp 98.000
+ OVO Cash
+ Trx ID: OVO24071904222219144O8
+ Berhasil",Bills,E-Wallet
+ovo_343,"OVO
+ Bukti Pembayaran
+ 20 Agu 2025 · 21:01:53 WIB
+ QRIS
+ Merchant
+ Shopee Listrik
+ ID/No
+ IDPEL 193152DENI
+ Rincian
+ Bayar listrik
+ Total
+ Rp 350.000
+ Trx ID: OVO25082004234564811O7
+ Berhasil",Bills,Qris
+ovo_344,"OVO
+ Bukti Pembayaran
+ 21 Sep 2024 · 00:08:04 WIB
+ Bills
+ by.U
+ Order SN ATK3ENfch3zdL
+ Detail
+ Bayar paket data
+ Total
+ Rp 15.000
+ OVO Cash
+ Trx ID: OVO24092104246910488O6
+ Berhasil",Bills,E-Wallet
+ovo_345,"OVO
+ Bukti Pembayaran
+ 22 Okt 2025 · 03:15:15 WIB
+ Bills
+ MyTelkomsel
+ 761-5**-**83
+ Detail
+ Tagihan Telkomsel
+ Total
+ Rp 111.000
+ OVO Cash
+ Trx ID: OVO25102204259256155O5
+ Berhasil",Bills,E-Wallet
+ovo_346,"OVO
+ Bukti Pembayaran
+ 23 Nov 2024 · 06:22:26 WIB
+ Virtual Account
+ Biller: PLN Pascabayar
+ VA: 0000000003161402
+ Detail: Tagihan listrik bulan ini
+ Total: Rp 425.000
+ Trx ID: OVO24112304271601822O4
+ Status: Berhasil",Bills,Virtual Account
+ovo_347,"OVO
+ Bukti Pembayaran
+ 24 Des 2025 · 09:29:37 WIB
+ Bills
+ PDAM
+ No. Pelanggan 0900123456
+ Detail
+ Tagihan air bulan ini
+ Total
+ Rp 185.000
+ OVO Cash
+ Trx ID: OVO25122404283947499O3
+ Berhasil",Bills,E-Wallet
+ovo_348,"OVO
+ Bukti Pembayaran
+ 25 Jan 2024 · 12:36:48 WIB
+ QRIS
+ Merchant
+ PGN Gas
+ ID/No
+ ID Pelanggan 7001234567
+ Rincian
+ Tagihan gas
+ Total
+ Rp 98.000
+ Trx ID: OVO24012504296293166O2
+ Berhasil",Bills,Qris
+ovo_349,"OVO
+ Bukti Pembayaran
+ 26 Feb 2025 · 15:43:59 WIB
+ Bills
+ Shopee Listrik
+ IDPEL 193152DENI
+ Detail
+ Bayar listrik
+ Total
+ Rp 350.000
+ OVO Cash
+ Trx ID: OVO25022604308638833O1
+ Berhasil",Bills,E-Wallet
+jago_350,"JAGO
+ Bukti Transaksi
+ Tanggal 27 Mar 2024 · 18:50:10 WIB
+ Transfer
+ Penerima
+ MyTelkomsel
+ 761-5**-**83
+ Kategori: Bills
+ Keterangan
+ Tagihan Telkomsel
+ Jumlah
+ Rp 111.000
+ Ref: JG24032704320984500O0
+ Status: BERHASIL",Bills,Transfer
+jago_351,"JAGO
+ Bukti Transaksi
+ Tanggal 01 Apr 2025 · 21:57:21 WIB
+ Transfer
+ Penerima
+ PLN Pascabayar
+ IDPEL 541234567890
+ Kategori: Bills
+ Keterangan
+ Tagihan listrik bulan ini
+ Jumlah
+ Rp 425.000
+ Ref: JG25040104333330177O9
+ Status: BERHASIL",Bills,Transfer
+jago_352,"JAGO
+ Bukti Transaksi
+ Tanggal 02 Mei 2024 · 00:04:32 WIB
+ Transfer
+ Penerima
+ PDAM
+ No. Pelanggan 0900123456
+ Kategori: Bills
+ Keterangan
+ Tagihan air bulan ini
+ Jumlah
+ Rp 185.000
+ Ref: JG24050204345675844O8
+ Status: BERHASIL",Bills,Transfer
+jago_353,"JAGO
+ Bukti Transaksi
+ Tanggal 03 Jun 2025 · 03:11:43 WIB
+ Transfer
+ Penerima
+ PGN Gas
+ ID Pelanggan 7001234567
+ Kategori: Bills
+ Keterangan
+ Tagihan gas
+ Jumlah
+ Rp 98.000
+ Ref: JG25060304358021511O7
+ Status: BERHASIL",Bills,Transfer
+jago_354,"JAGO
+ Bukti Transaksi
+ 04 Jul 2024 · 06:18:54 WIB
+ QRIS
+ Pembayaran Berhasil
+ Merchant
+ Shopee Listrik
+ IDPEL 193152DENI
+ Nominal
+ Rp 350.000
+ Keterangan
+ Bayar listrik
+ Ref: JG24070404370367188O6
+ Status BERHASIL",Bills,Qris
+jago_355,"JAGO
+ Bukti Transaksi
+ Tanggal 05 Agu 2025 · 09:25:05 WIB
+ Transfer
+ Penerima
+ by.U
+ Order SN ATK3ENfch3zdL
+ Kategori: Bills
+ Keterangan
+ Bayar paket data
+ Jumlah
+ Rp 15.000
+ Ref: JG25080504382712855O5
+ Status: BERHASIL",Bills,Transfer
+jago_356,"JAGO
+ Bukti Pembayaran
+ 06 Sep 2024 · 12:32:16 WIB
+ Virtual Account
+ Tujuan
+ MyTelkomsel
+ 761-5**-**83
+ No VA
+ 0000000003252772
+ Total
+ Rp 111.000
+ Catatan
+ Tagihan Telkomsel
+ Ref: JG24090604395058522O4
+ Berhasil",Bills,Virtual Account
+jago_357,"JAGO
+ Bukti Transaksi
+ Tanggal 07 Okt 2025 · 15:39:27 WIB
+ Transfer
+ Penerima
+ PLN Pascabayar
+ IDPEL 541234567890
+ Kategori: Bills
+ Keterangan
+ Tagihan listrik bulan ini
+ Jumlah
+ Rp 425.000
+ Ref: JG25100704407404199O3
+ Status: BERHASIL",Bills,Transfer
+jago_358,"JAGO
+ Bukti Transaksi
+ 08 Nov 2024 · 18:46:38 WIB
+ QRIS
+ Pembayaran Berhasil
+ Merchant
+ PDAM
+ No. Pelanggan 0900123456
+ Nominal
+ Rp 185.000
+ Keterangan
+ Tagihan air bulan ini
+ Ref: JG24110804419749866O2
+ Status BERHASIL",Bills,Qris
+jago_359,"JAGO
+ Bukti Pembayaran
+ 09 Des 2025 · 21:53:49 WIB
+ Virtual Account
+ Tujuan
+ PGN Gas
+ ID Pelanggan 7001234567
+ No VA
+ 0000000003280183
+ Total
+ Rp 98.000
+ Catatan
+ Tagihan gas
+ Ref: JG25120904432095533O1
+ Berhasil",Bills,Virtual Account
+blu_360,"blu
+ Transaction Receipt
+ 10 Jan 2024 00:00:00 WIB
+ Transfer
+ Category: Bills
+ To: by.U
+ ID: Order SN ATK3ENfch3zdL
+ Notes: Bayar paket data
+ Amount Rp 15.000
+ Reference BLU24011004444441200O0
+ Status SUCCESS",Bills,Transfer
+blu_361,"blu
+ Transaction Receipt
+ 11 Feb 2025 03:07:11 WIB
+ Virtual Account
+ Category: Bills
+ To: MyTelkomsel
+ VA: 0000000003298457
+ ID: 761-5**-**83
+ Notes: Tagihan Telkomsel
+ Amount Rp 111.000
+ Reference BLU25021104456786877O9
+ Status SUCCESS",Bills,Virtual Account
+blu_362,"blu
+ Transaction Receipt
+ 12 Mar 2024 06:14:22 WIB
+ Transfer
+ Category: Bills
+ To: PLN Pascabayar
+ ID: IDPEL 541234567890
+ Notes: Tagihan listrik bulan ini
+ Amount Rp 425.000
+ Reference BLU24031204469132544O8
+ Status SUCCESS",Bills,Transfer
+blu_363,"blu
+ Transaction Receipt
+ 13 Apr 2025 09:21:33 WIB
+ QRIS
+ Category: Bills
+ Merchant: PDAM
+ ID: No. Pelanggan 0900123456
+ Notes: Tagihan air bulan ini
+ Amount Rp 185.000
+ Reference BLU25041304481478211O7
+ Status SUCCESS",Bills,Qris
+blu_364,"blu
+ Transaction Receipt
+ 14 Mei 2024 12:28:44 WIB
+ Transfer
+ Category: Bills
+ To: PGN Gas
+ ID: ID Pelanggan 7001234567
+ Notes: Tagihan gas
+ Amount Rp 98.000
+ Reference BLU24051404493823888O6
+ Status SUCCESS",Bills,Transfer
+blu_365,"blu
+ Transaction Receipt
+ 15 Jun 2025 15:35:55 WIB
+ Virtual Account
+ Category: Bills
+ To: Shopee Listrik
+ VA: 0000000003335005
+ ID: IDPEL 193152DENI
+ Notes: Bayar listrik
+ Amount Rp 350.000
+ Reference BLU25061504506169555O5
+ Status SUCCESS",Bills,Virtual Account
+blu_366,"blu
+ Transaction Receipt
+ 16 Jul 2024 18:42:06 WIB
+ Transfer
+ Category: Bills
+ To: by.U
+ ID: Order SN ATK3ENfch3zdL
+ Notes: Bayar paket data
+ Amount Rp 15.000
+ Reference BLU24071604518515222O4
+ Status SUCCESS",Bills,Transfer
+blu_367,"blu
+ Transaction Receipt
+ 17 Agu 2025 21:49:17 WIB
+ QRIS
+ Category: Bills
+ Merchant: MyTelkomsel
+ ID: 761-5**-**83
+ Notes: Tagihan Telkomsel
+ Amount Rp 111.000
+ Reference BLU25081704530860899O3
+ Status SUCCESS",Bills,Qris
+blu_368,"blu
+ Transaction Receipt
+ 18 Sep 2024 00:56:28 WIB
+ Transfer
+ Category: Bills
+ To: PLN Pascabayar
+ ID: IDPEL 541234567890
+ Notes: Tagihan listrik bulan ini
+ Amount Rp 425.000
+ Reference BLU24091804543206566O2
+ Status SUCCESS",Bills,Transfer
+blu_369,"blu
+ Transaction Receipt
+ 19 Okt 2025 03:03:39 WIB
+ Virtual Account
+ Category: Bills
+ To: PDAM
+ VA: 0000000003371553
+ ID: No. Pelanggan 0900123456
+ Notes: Tagihan air bulan ini
+ Amount Rp 185.000
+ Reference BLU25101904555552233O1
+ Status SUCCESS",Bills,Virtual Account

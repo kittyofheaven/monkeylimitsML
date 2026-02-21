@@ -1,0 +1,15 @@
+{
+  "classifier_classes": [
+    "Bills",
+    "Donations",
+    "Education",
+    "Entertainment",
+    "Food and Beverages",
+    "Health",
+    "Other",
+    "Savings and Investment",
+    "Shopping",
+    "Transport"
+  ],
+  "sklearn_version": "1.8.0"
+}
